@@ -18,6 +18,7 @@ Open Service List > Virtual Private Cloud > Create VPC.
 Fill in:
 
 VPC Name: system-assigned (e.g., vpc-Sandbox-abc123)
+![WhatsApp Image 2025-07-27 at 6 43 39 PM (2)](https://github.com/user-attachments/assets/f1e12604-5e99-4987-9e58-be335141b2e2)
 
 IPv4 CIDR Block: 192.168.0.0/16
 
@@ -149,3 +150,5 @@ bash
 Copy
 Edit
 ls -l /etc/udev/rules.d
+![WhatsApp Image 2025-07-27 at 6 43 39 PM (2)](https://github.com/user-attachments/assets/e82779b3-9782-46c7-8358-e466613b8ebd)
+

@@ -154,3 +154,4 @@ bash
 Copy
 Edit
 ls -l /etc/udev/rules.d
+![WhatsApp Image 2025-07-27 at 6 43 38 PM](https://github.com/user-attachments/assets/c48dcb4a-09b3-40cb-8b40-c7afd2b1aaca)

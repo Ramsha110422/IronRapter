@@ -161,3 +161,5 @@ bash
 Copy
 Edit
 ollama run deepseek-r1:1.5b
+![WhatsApp Image 2025-07-27 at 6 43 40 PM](https://github.com/user-attachments/assets/dab39931-eda1-4b22-af41-beecca9f1ab0)
+
